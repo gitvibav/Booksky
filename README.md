@@ -18,4 +18,3 @@ Follow these instructions to get a copy of the Booksky app running on your local
 
 1. Clone the repository:
    git clone https://github.com/gitvibav/Booksky.git
-   cd Booksky
